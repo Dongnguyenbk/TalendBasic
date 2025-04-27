@@ -5,6 +5,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_m4gisCOtEfC1nMLh4dpKFQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
     "id" : "TALENDCOMMON:_9ctSACL1EfCIj-ReuM8YTw",
     "version" : "Latest",
     "type" : "job"

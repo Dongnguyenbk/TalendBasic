@@ -1,0 +1,24 @@
+{
+  "itemId" : "_n2xsUOalEe-OKohW-2mr3w",
+  "contextList" : [ {
+    "contextName" : "PRD_ENV",
+    "repoId" : "_m4gisCOtEfC1nMLh4dpKFQ",
+    "parameterList" : [ {
+      "id" : "_m4zdpSOtEfC1nMLh4dpKFQ",
+      "name" : "create_date"
+    }, {
+      "id" : "_m4zdpCOtEfC1nMLh4dpKFQ",
+      "name" : "create_user"
+    } ]
+  }, {
+    "contextName" : "DEV_ENV",
+    "repoId" : "_m4gisCOtEfC1nMLh4dpKFQ",
+    "parameterList" : [ {
+      "id" : "_m4zdoiOtEfC1nMLh4dpKFQ",
+      "name" : "create_date"
+    }, {
+      "id" : "_m4zdoSOtEfC1nMLh4dpKFQ",
+      "name" : "create_user"
+    } ]
+  } ]
+}
