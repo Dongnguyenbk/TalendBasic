@@ -1,6 +1,3 @@
 {
-  "reference_projects" : [ {
-    "project" : "TALENDIMPORTED",
-    "branch" : "main"
-  } ]
+  "reference_projects" : [ ]
 }
